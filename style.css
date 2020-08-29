@@ -3,6 +3,10 @@
     margin: 0px;
     padding: 0px;
 }
+body
+{
+    background-color: coral;
+}
 /* CSS Variables */
 
 /* Navigation Bar */
