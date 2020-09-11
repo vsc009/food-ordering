@@ -19,7 +19,7 @@ body
     top: 0px;
     
 }
-/*NAvigation bar:Logo and image */
+/*Navigation bar:Logo and image */
 #logo{
     margin:2px 30px;
 }
@@ -62,7 +62,6 @@ body
     color: black;
     background-color: white;
 }
-
 /*  Home Section*/
 #home{
     display: flex;
