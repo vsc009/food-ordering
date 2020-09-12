@@ -62,6 +62,25 @@ body
     color: black;
     background-color: white;
 }
+#signin button
+{
+    float: left;
+    border-radius: 15px;
+    color: black;
+    text-decoration: solid;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 2px 7px;
+    font-size: 20px;
+    border: 2px solid white;
+    margin-left: 84vh;
+}
+#signin button:hover
+{
+    cursor: pointer;
+    color: white;
+    background-color: coral;
+}
 /*  Home Section*/
 #home{
     display: flex;
