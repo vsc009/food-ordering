@@ -16,6 +16,7 @@ body
     justify-content: flex-start;
     align-items: center;
     position: relative;
+    justify-content: space-evenly;
     top: 0px;
     
 }
