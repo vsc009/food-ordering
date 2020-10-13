@@ -159,6 +159,7 @@ body
 } 
 #clients img{
     height: 114px;
+    border-radius: 50%;
 }
 /* Contact section */
 #contact{
